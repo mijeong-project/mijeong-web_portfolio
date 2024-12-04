@@ -779,7 +779,7 @@ Icon for all respective meta
 
 .tt-overlay {
     position: absolute;
-    background-color: rgba(26, 30, 31, 0.85);
+    background-color: rgba(250, 254, 255, 0.85);
     width: 100%;
     height: 100%;
     opacity: 0;
@@ -801,7 +801,7 @@ Icon for all respective meta
     width: 90px;
     height: 40px;
     position: absolute;
-    top: 40%;
+    top: 45%;
     left: 50%;
     margin-top: -20px;
     margin-left: -45px;
